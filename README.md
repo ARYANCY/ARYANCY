@@ -1,5 +1,7 @@
 # 💫 About Me:
-Computer Science undergraduate with a strong interest in AI/ML and hands-on experience in MERN stack development. Builds full-stack applications and integrates intelligent features such as NLP-based systems and real-time processing. Focused on scalable backend architecture and efficient system design.
+I’m a 2nd-year Computer Science student and a Full-Stack Developer building scalable, real-world applications. I work primarily with the MERN stack (MongoDB, Express, React, Node.js) and extend my projects with AI/ML features such as NLP, speech processing, and intelligent automation.
+
+My work focuses on developing end-to-end systems—from backend architecture and APIs to responsive frontends—while ensuring performance, usability, and real-world relevance.
 
 
 ## 🌐 Socials:
